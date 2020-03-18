@@ -1,0 +1,7 @@
+ 
+		1		low		    Hello 
+		17		High		Hello
+		3		High		Magic
+		18		lOZ		Fu
+		8		high		jAM
+		6		High		Jil
